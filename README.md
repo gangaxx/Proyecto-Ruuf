@@ -12,4 +12,5 @@ Descargar mi repositorio, (tener instalado visual studio code y python) una vez 
 Pude haber hecho funciones o menús, pero se me hace mas fácil poder escribir este código a mi manera mas simple tanto para desarrollar como para explicar.
 
 
-
+# Por qué eleguí esta solución?
+porque es mas claro y sencillo, así demuestro mis conocimientos necesarios para desarrollar un programa básico y poder demostrar lo que aprendí en el instituto profesional Duoc UC Sede San Joaquín. 
